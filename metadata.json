@@ -1,0 +1,5 @@
+{
+  "name": "Remix: القرآن الكريم - The Holy Quran",
+  "description": "تطبيق شامل لقراءة واستماع القرآن الكريم مع التفسير والترجمة.",
+  "requestFramePermissions": ["geolocation"]
+}
